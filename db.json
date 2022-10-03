@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "role": "intern",
+      "fullname": "Mai Duc",
+      "phone": "0942893001",
+      "address": "362 Bui Xuong Trach"
+    },
+    {
+      "id": 2,
+      "role": "intern",
+      "fullname": "Mai Duc",
+      "phone": "0942893001",
+      "address": "362 Bui Xuong Trach"
+    },
+    {
+      "id": 3,
+      "role": "tester",
+      "fullname": "Mai Duc",
+      "phone": "0942893001",
+      "address": "362 Bui Xuong Trach"
+    },
+    {
+      "id": 4,
+      "role": "project owner",
+      "fullname": "Mai Duc",
+      "phone": "0942893001",
+      "address": "362 Bui Xuong Trach"
+    }
+  ]
+}
